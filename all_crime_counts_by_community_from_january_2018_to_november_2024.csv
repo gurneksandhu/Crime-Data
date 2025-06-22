@@ -1,0 +1,292 @@
+count,category,name,class,pop
+25,All Crime,01b,Residual Sub Area,0
+11,All Crime,01f,Residual Sub Area,0
+1,All Crime,01h,Residual Sub Area,0
+87,All Crime,01k,Residual Sub Area,0
+3,All Crime,02b,Residual Sub Area,0
+21,All Crime,02c,Residual Sub Area,0
+473,All Crime,02e,Residual Sub Area,0
+29,All Crime,02f,Residual Sub Area,0
+6,All Crime,02k,Residual Sub Area,0
+1,All Crime,02l,Residual Sub Area,0
+26,All Crime,03w,Residual Sub Area,0
+24,All Crime,05d,Residual Sub Area,0
+12,All Crime,05f,Residual Sub Area,0
+12,All Crime,06a,Residual Sub Area,0
+5,All Crime,06b,Residual Sub Area,0
+2,All Crime,06c,Residual Sub Area,0
+9,All Crime,09h,Residual Sub Area,0
+83,All Crime,09o,Residual Sub Area,0
+22,All Crime,09p,Residual Sub Area,0
+63,All Crime,09q,Residual Sub Area,0
+20,All Crime,10d,Residual Sub Area,0
+130,All Crime,10e,Residual Sub Area,0
+359,All Crime,12a,Residual Sub Area,0
+24,All Crime,12b,Residual Sub Area,0
+6,All Crime,12c,Residual Sub Area,0
+88,All Crime,12j,Residual Sub Area,0
+2,All Crime,12k,Residual Sub Area,0
+32,All Crime,12l,Residual Sub Area,0
+2,All Crime,13a,Residual Sub Area,0
+1,All Crime,13c,Residual Sub Area,0
+1,All Crime,13e,Residual Sub Area,0
+30,All Crime,13f,Residual Sub Area,0
+19,All Crime,13g,Residual Sub Area,0
+10,All Crime,13m,Residual Sub Area,0
+773,All Crime,Abbeydale,Residential,5957
+2020,All Crime,Acadia,Residential,10520
+2130,All Crime,Albert Park/Radisson Heights,Residential,6997
+1086,All Crime,Altadore,Residential,6942
+592,All Crime,Alyth/Bonnybrook,Industrial,0
+729,All Crime,Applewood Park,Residential,6981
+1411,All Crime,Arbour Lake,Residential,10619
+573,All Crime,Aspen Woods,Residential,9446
+1041,All Crime,Auburn Bay,Residential,17607
+105,All Crime,Aurora Business Park,Industrial,0
+1387,All Crime,Banff Trail,Residential,4153
+1546,All Crime,Bankview,Residential,5256
+109,All Crime,Bayview,Residential,751
+1365,All Crime,Beddington Heights,Residential,11514
+61,All Crime,Bel-Aire,Residential,390
+47,All Crime,Belmont,Residential,86
+10833,All Crime,Beltline,Residential,25129
+284,All Crime,Belvedere,Residential,41
+68,All Crime,Bonavista Downs,Residential,928
+2688,All Crime,Bowness,Residential,11150
+582,All Crime,Braeside,Residential,5805
+1593,All Crime,Brentwood,Residential,7267
+2301,All Crime,Bridgeland/Riverside,Residential,6835
+606,All Crime,Bridlewood,Residential,12641
+145,All Crime,Britannia,Residential,690
+464,All Crime,Burns Industrial,Industrial,0
+1162,All Crime,Calgary International Airport,Industrial,0
+299,All Crime,Cambrian Heights,Residential,2036
+44,All Crime,Canada Olympic Park,Major Park,0
+952,All Crime,Canyon Meadows,Residential,7624
+1408,All Crime,Capitol Hill,Residential,4744
+179,All Crime,Carrington,Residential,572
+936,All Crime,Castleridge,Residential,6127
+496,All Crime,Cedarbrae,Residential,6094
+584,All Crime,Chaparral,Residential,12654
+442,All Crime,Charleswood,Residential,3569
+464,All Crime,Chinatown,Residential,2471
+201,All Crime,Chinook Park,Residential,1662
+205,All Crime,Christie Park,Residential,2128
+400,All Crime,Citadel,Residential,10077
+334,All Crime,Cityscape,Residential,3104
+979,All Crime,Cliff Bungalow,Residential,1895
+244,All Crime,Coach Hill,Residential,3244
+339,All Crime,Collingwood,Residential,2249
+795,All Crime,Copperfield,Residential,13823
+512,All Crime,Coral Springs,Residential,5801
+586,All Crime,Cornerstone,Residential,2648
+365,All Crime,Cougar Ridge,Residential,6997
+343,All Crime,Country Hills,Residential,3767
+635,All Crime,Country Hills Village,Residential,2597
+1117,All Crime,Coventry Hills,Residential,17667
+1016,All Crime,Cranston,Residential,19884
+2337,All Crime,Crescent Heights,Residential,6620
+128,All Crime,Crestmont,Residential,1690
+81,All Crime,Currie Barracks,Residential,1262
+1068,All Crime,Dalhousie,Residential,8940
+416,All Crime,Deer Ridge,Residential,3973
+298,All Crime,Deer Run,Residential,5065
+340,All Crime,Deerfoot Business Centre,Industrial,0
+52,All Crime,Diamond Cove,Residential,690
+255,All Crime,Discovery Ridge,Residential,4280
+1005,All Crime,Douglasdale/Glen,Residential,12881
+2326,All Crime,Dover,Residential,10351
+7709,All Crime,Downtown Commercial Core,Residential,8683
+2264,All Crime,Downtown East Village,Residential,3893
+688,All Crime,Downtown West End,Residential,2785
+278,All Crime,Eagle Ridge,Residential,302
+538,All Crime,East Fairview Industrial,Industrial,0
+1124,All Crime,East Shepard Industrial,Industrial,0
+258,All Crime,Eastfield,Industrial,0
+596,All Crime,Eau Claire,Residential,2030
+855,All Crime,Edgemont,Residential,15395
+486,All Crime,Elbow Park,Residential,3342
+379,All Crime,Elboya,Residential,1754
+1068,All Crime,Erin Woods,Residential,7049
+362,All Crime,Erlton,Residential,1270
+755,All Crime,Evanston,Residential,17685
+817,All Crime,Evergreen,Residential,21500
+670,All Crime,Fairview,Residential,3646
+655,All Crime,Fairview Industrial,Industrial,0
+2148,All Crime,Falconridge,Residential,10653
+127,All Crime,Fish Creek Park,Major Park,0
+1733,All Crime,Foothills,Industrial,317
+1415,All Crime,Forest Heights,Residential,6496
+3428,All Crime,Forest Lawn,Residential,7814
+628,All Crime,Forest Lawn Industrial,Industrial,123
+1075,All Crime,Franklin,Industrial,0
+153,All Crime,Garrison Green,Residential,2060
+164,All Crime,Garrison Woods,Residential,3116
+922,All Crime,Glamorgan,Residential,6522
+994,All Crime,Glenbrook,Residential,7442
+605,All Crime,Glendale,Residential,2765
+59,All Crime,Glendeer Business Park,Industrial,0
+226,All Crime,Glenmore Park,Major Park,0
+181,All Crime,Golden Triangle,Industrial,0
+350,All Crime,Great Plains,Industrial,0
+479,All Crime,Greenview,Residential,1906
+972,All Crime,Greenview Industrial Park,Industrial,225
+99,All Crime,Greenwood/Greenbriar,Residential,896
+320,All Crime,Hamptons,Residential,7382
+778,All Crime,Harvest Hills,Residential,7420
+45,All Crime,Haskayne,Residential,0
+499,All Crime,Hawkwood,Residential,9248
+1558,All Crime,Haysboro,Residential,7080
+651,All Crime,Hidden Valley,Residential,11566
+841,All Crime,Highfield,Industrial,0
+1176,All Crime,Highland Park,Residential,3838
+535,All Crime,Highwood,Residential,2258
+2141,All Crime,Hillhurst,Residential,6558
+48,All Crime,Homestead,Residential,0
+1389,All Crime,Horizon,Industrial,0
+25,All Crime,Hotchkiss,Residential,0
+1117,All Crime,Hounsfield Heights/Briar Hill,Residential,2798
+2123,All Crime,Huntington Hills,Residential,13420
+1235,All Crime,Inglewood,Residential,4024
+394,All Crime,Kelvin Grove,Residential,2305
+1634,All Crime,Killarney/Glengarry,Residential,7685
+423,All Crime,Kincora,Residential,6889
+1438,All Crime,Kingsland,Residential,4688
+1255,All Crime,Lake Bonavista,Residential,10293
+560,All Crime,Lakeview,Residential,5355
+559,All Crime,Legacy,Residential,6420
+341,All Crime,Lincoln Park,Residential,2617
+253,All Crime,Livingston,Residential,1477
+1121,All Crime,Lower Mount Royal,Residential,3457
+299,All Crime,Macewan Glen,Residential,4754
+765,All Crime,Mahogany,Residential,11784
+693,All Crime,Manchester,Residential,1025
+2595,All Crime,Manchester Industrial,Industrial,0
+235,All Crime,Maple Ridge,Residential,1916
+2533,All Crime,Marlborough,Residential,9162
+1584,All Crime,Marlborough Park,Residential,8523
+1942,All Crime,Martindale,Residential,14245
+54,All Crime,Mayfair,Residential,432
+429,All Crime,Mayland,Industrial,0
+1349,All Crime,Mayland Heights,Residential,5961
+502,All Crime,Mccall,Industrial,0
+772,All Crime,Mckenzie Lake,Residential,13406
+1406,All Crime,Mckenzie Towne,Residential,18283
+1009,All Crime,Meadowlark Park,Residential,644
+35,All Crime,Medicine Hill,Residential,0
+973,All Crime,Meridian,Industrial,0
+715,All Crime,Midnapore,Residential,7270
+550,All Crime,Millrise,Residential,6900
+1429,All Crime,Mission,Residential,4598
+965,All Crime,Monterey Park,Residential,10372
+1571,All Crime,Montgomery,Residential,4515
+1562,All Crime,Mount Pleasant,Residential,5889
+690,All Crime,New Brighton,Residential,13103
+377,All Crime,Nolan Hill,Residential,7505
+663,All Crime,North Airways,Industrial,0
+420,All Crime,North Glenmore Park,Residential,2391
+231,All Crime,North Haven,Residential,2359
+50,All Crime,North Haven Upper,Residential,599
+187,All Crime,Nose Hill Park,Major Park,0
+465,All Crime,Oakridge,Residential,5690
+1405,All Crime,Ogden,Residential,8576
+51,All Crime,Ogden Shops,Industrial,0
+359,All Crime,Palliser,Residential,3672
+1376,All Crime,Panorama Hills,Residential,25710
+440,All Crime,Parkdale,Residential,2566
+552,All Crime,Parkhill,Residential,1691
+225,All Crime,Parkland,Residential,3660
+363,All Crime,Patterson,Residential,4202
+162,All Crime,Pegasus,Industrial,0
+1686,All Crime,Penbrooke Meadows,Residential,8554
+56,All Crime,Pine Creek,Residential,14
+2244,All Crime,Pineridge,Residential,10022
+112,All Crime,Point Mckay,Residential,1343
+156,All Crime,Pump Hill,Residential,1640
+77,All Crime,Queens Park Village,Residential,455
+385,All Crime,Queensland,Residential,4743
+486,All Crime,Ramsay,Residential,2158
+620,All Crime,Ranchlands,Residential,7607
+46,All Crime,Rangeview,Residential,0
+272,All Crime,Red Carpet,Residential,1594
+486,All Crime,Redstone,Residential,5848
+1733,All Crime,Renfrew,Residential,6582
+1123,All Crime,Richmond,Residential,4962
+106,All Crime,Rideau Park,Residential,594
+756,All Crime,Riverbend,Residential,9244
+377,All Crime,Rocky Ridge,Residential,8398
+283,All Crime,Rosedale,Residential,1560
+198,All Crime,Rosemont,Residential,1254
+1266,All Crime,Rosscarrock,Residential,3625
+65,All Crime,Roxboro,Residential,422
+550,All Crime,Royal Oak,Residential,11706
+200,All Crime,Royal Vista,Industrial,0
+2230,All Crime,Rundle,Residential,11688
+349,All Crime,Rutland Park,Residential,2263
+2281,All Crime,Saddle Ridge,Residential,22321
+336,All Crime,Saddle Ridge Industrial,Industrial,25
+771,All Crime,Sage Hill,Residential,7924
+370,All Crime,Sandstone Valley,Residential,5904
+205,All Crime,Scarboro,Residential,931
+67,All Crime,Scarboro/Sunalta West,Residential,401
+560,All Crime,Scenic Acres,Residential,8067
+138,All Crime,Section 23,Industrial,0
+755,All Crime,Seton,Residential,1134
+503,All Crime,Shaganappi,Residential,1626
+320,All Crime,Shawnee Slopes,Residential,1911
+1426,All Crime,Shawnessy,Residential,9368
+574,All Crime,Shepard Industrial,Industrial,255
+483,All Crime,Sherwood,Residential,6246
+1303,All Crime,Signal Hill,Residential,13395
+748,All Crime,Silver Springs,Residential,8679
+395,All Crime,Silverado,Residential,7655
+131,All Crime,Skyline East,Industrial,0
+238,All Crime,Skyline West,Industrial,0
+1337,All Crime,Skyview Ranch,Residential,11707
+661,All Crime,Somerset,Residential,8543
+1078,All Crime,South Airways,Industrial,0
+1213,All Crime,South Calgary,Residential,4442
+388,All Crime,South Foothills,Industrial,0
+830,All Crime,Southview,Residential,1805
+1485,All Crime,Southwood,Residential,6246
+633,All Crime,Springbank Hill,Residential,9943
+544,All Crime,Spruce Cliff,Residential,4673
+662,All Crime,St. Andrews Heights,Residential,1795
+237,All Crime,Starfield,Industrial,0
+161,All Crime,Stonegate Landing,Industrial,0
+208,All Crime,Stoney 1,Industrial,0
+806,All Crime,Stoney 2,Industrial,0
+249,All Crime,Stoney 3,Industrial,0
+114,All Crime,Stoney 4,Industrial,0
+410,All Crime,Strathcona Park,Residential,6855
+1464,All Crime,Sunalta,Residential,3239
+586,All Crime,Sundance,Residential,9736
+1258,All Crime,Sunnyside,Residential,4230
+2422,All Crime,Sunridge,Industrial,11
+1701,All Crime,Taradale,Residential,19026
+1838,All Crime,Temple,Residential,10977
+1572,All Crime,Thorncliffe,Residential,8788
+899,All Crime,Tuscany,Residential,19884
+1736,All Crime,Tuxedo Park,Residential,5326
+229,All Crime,University District,Residential,705
+433,All Crime,University Heights,Residential,2921
+208,All Crime,University Of Calgary,Residential,2367
+455,All Crime,Upper Mount Royal,Residential,2478
+306,All Crime,Valley Ridge,Residential,5585
+385,All Crime,Valleyfield,Industrial,0
+1901,All Crime,Varsity,Residential,12874
+640,All Crime,Vista Heights,Residential,2370
+430,All Crime,Walden,Residential,6228
+1300,All Crime,West Hillhurst,Residential,6447
+635,All Crime,West Springs,Residential,10758
+339,All Crime,Westgate,Residential,3202
+1244,All Crime,Westwinds,Industrial,0
+1781,All Crime,Whitehorn,Residential,12019
+353,All Crime,Wildwood,Residential,2709
+1214,All Crime,Willow Park,Residential,5328
+1128,All Crime,Windsor Park,Residential,4584
+1069,All Crime,Winston Heights/Mountview,Residential,3635
+35,All Crime,Wolf Willow,Residential,0
+635,All Crime,Woodbine,Residential,8866
+673,All Crime,Woodlands,Residential,6002
+34,All Crime,Yorkville,Residential,14
